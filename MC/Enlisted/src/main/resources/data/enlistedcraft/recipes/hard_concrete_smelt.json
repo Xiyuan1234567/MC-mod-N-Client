@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "minecraft:obsidian"
+  },
+  "result": "enlistedcraft:hardconcrete",
+  "experience": 500.0,
+  "cookingtime": 20
+}

@@ -1,0 +1,16 @@
+{
+  "item.enlistedcraft.hardconcrete": "Hard Concrete",
+  "item.enlistedcraft.combat_knife": "Combat Knife",
+  "item.enlistedcraft.m1_helmet": "M1 Helmet",
+  "item.enlistedcraft.vest": "Vest",
+  "item.enlistedcraft.legging": "legging",
+  "item.enlistedcraft.boots": "Boots",
+  "item.enlistedcraft.medkit": "Medkit",
+  "item.enlistedcraft.bolterround": "Bolter Round",
+  "item.enlistedcraft.hog_spawn_egg":"Hog Spawn Egg",
+  "block.enlistedcraft.hard_concrete_block": "Hard Concrete Block",
+  "block.enlistedcraft.oven1": "Oven",
+  "block.enlistedcraft.aluminum_ore": "Aluminum Ore",
+  "entity.enlistedcraft.hog": "Hog",
+  "itemGroup.tutorialTab": "EnlistedMod"
+}

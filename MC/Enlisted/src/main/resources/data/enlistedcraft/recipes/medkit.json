@@ -1,0 +1,33 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    "mam",
+    "ggg",
+    " i "
+  ],
+  "key":
+  {
+    "m":
+    {
+      "item": "minecraft:glistering_melon_slice"
+    },
+    "a":
+    {
+      "item": "minecraft:apple"
+    },
+    "g":
+    {
+      "item": "minecraft:glass"
+    },
+    "i":
+    {
+      "item": "minecraft:iron_ingot"
+    }
+  },
+  "result":
+  {
+    "item": "enlistedcraft:medkit",
+    "count": 2
+  }
+}

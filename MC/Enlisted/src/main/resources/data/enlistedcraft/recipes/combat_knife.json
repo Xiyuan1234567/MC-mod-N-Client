@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    "xix",
+    "xix",
+    " i "
+  ],
+  "key":
+  {
+    "x":
+    {
+      "item": "minecraft:diamond"
+    },
+    "i":
+    {
+      "tag": "enlistedcraft:metal"
+    }
+  },
+  "result":
+  {
+    "item": "enlistedcraft:combat_knife",
+    "count": 1
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    "xix",
+    "xix",
+    "xxx"
+  ],
+  "key":
+  {
+    "x":
+    {
+      "item": "enlistedcraft:hardconcrete"
+    },
+    "i":
+    {
+      "item": "minecraft:iron_ingot"
+    }
+  },
+  "result":
+  {
+    "item": "enlistedcraft:hard_concrete_block",
+    "count": 16
+  }
+}
